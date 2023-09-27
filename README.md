@@ -1,1 +1,1 @@
-# magicmindFrontend
+# magicmindFrontend Ready now
